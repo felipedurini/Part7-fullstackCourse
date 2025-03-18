@@ -6,7 +6,7 @@ Part 7: React Router, Custom Hooks, Styling App with CSS and Webpack
 
 ## 🚀 Technologies Used
 
-### Frontend  
+## Frontend  
 - **Framework & UI:** React, React Bootstrap  
 - **State Management:** Redux, @reduxjs/toolkit  
 - **Routing:** React Router  
@@ -15,7 +15,7 @@ Part 7: React Router, Custom Hooks, Styling App with CSS and Webpack
 - **Development & Build Tools:** Vite  
 - **Testing:** Vitest, @testing-library/react, @testing-library/user-event  
 
-### Backend  
+## Backend  
 - **Runtime Environment:** Node.js  
 - **Framework:** Express.js  
 - **Database:** MongoDB (via Mongoose)  
