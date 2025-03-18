@@ -2,7 +2,7 @@ This is Part 7 of https://fullstackopen.com/en
 
 Part 7: React Router, Custom Hooks, Styling App with CSS and Webpack
 
-# Web Application - Redux Blog
+# Web Application - (lastPart/redux in repo)
 
 ## 🚀 Technologies Used
 
